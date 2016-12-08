@@ -3,3 +3,7 @@ ul {
   color:red;
   text-align:justify;
 }
+
+.tachar {
+  text-decoration: line-through;
+}
